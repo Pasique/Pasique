@@ -3,7 +3,7 @@
 
 - Me pergunte sobre **SQL, Power BI, Excel e Python**
 
-- Para me achar **phsiqueira.adm@gmail.com**
+- Para me achar **phsiqueira.data@gmail.com**
 
 - Sobre minhas experiencias [https://www.linkedin.com/in/paulo-henrique-siqueira/](https://www.linkedin.com/in/paulo-henrique-siqueira/)
 

@@ -5,7 +5,11 @@
 
 ### Sobre mim
 
-Sou Cientista de Dados com foco em **análise exploratória**, **modelagem preditiva**, **machine learning** e **inteligência artificial**. Tenho experiência prática com **SQL, Python, Power BI e Excel**, conduzindo projetos desde a ingestão e preparação de dados até a geração de insights acionáveis e soluções preditivas. Atuo com construção de pipelines analíticos, automação de processos, visualizações interativas e apoio à tomada de decisão orientada por dados.
+Apaixonado por tecnologia e fascinado por transformar dados em histórias.
+
+Com mais de 15 anos de experiência em logística e cadeia de suprimentos, desenvolvi profundo conhecimento, relacionamentos fortes e uma compreensão clara de como as informações e os dados impactam as operações de produção e fornecimento.
+
+Hoje, concentro-me em alavancar a interpretação de dados em suas várias formas para explicar eventos passados, antecipar riscos potenciais e, com a maior precisão possível, construir modelos para prever o comportamento futuro.
 
 - **Contato direto:** phsiqueira.data@gmail.com  
 - **Currículo completo e trajetória profissional:** LinkedIn
